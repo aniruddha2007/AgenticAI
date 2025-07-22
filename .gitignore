@@ -205,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+LangChain/secret_keys.py
+LangChain/RestaurantNameGenerator/secret_key.py
